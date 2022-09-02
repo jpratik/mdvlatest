@@ -1,0 +1,25 @@
+.widget {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    margin: auto;
+    max-width: calc(100% - 120px);
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    height: 570px;
+}
+
+@media screen and (max-width: 540px) {
+    .widget {
+        max-width: calc(100% - 16px);
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .new-widget {
+        max-width: calc(100% - 26px);
+    }
+}
