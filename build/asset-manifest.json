@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8a124eb.css",
+    "main.js": "/static/js/main.be012669.js",
+    "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
+    "static/media/noimage.png": "/static/media/noimage.4d1dba3d8f0a3d9f693e.png",
+    "static/media/MDVLogo.svg": "/static/media/MDVLogo.261b9748b18c9e2474920b60a0509fd7.svg",
+    "static/media/MDVLogoSingle.svg": "/static/media/MDVLogoSingle.c0265778aaeab7f513f3ada755c6fe18.svg",
+    "static/media/ManageUser.svg": "/static/media/ManageUser.ccc9efb6ed6d53b5753431992533534e.svg",
+    "static/media/ManageDealer.svg": "/static/media/ManageDealer.93dfc84eae27bd36f3c2395daf358fb7.svg",
+    "static/media/SystemLog.svg": "/static/media/SystemLog.19e82dd6c731838a55eba7507e86a26b.svg",
+    "static/media/MDsvg.svg": "/static/media/MDsvg.fe664d4b5276d3e0e2ca88d922921a54.svg",
+    "index.html": "/index.html",
+    "static/media/background.svg": "/static/media/background.6dca84115664c9323cc5d55142862595.svg",
+    "main.d8a124eb.css.map": "/static/css/main.d8a124eb.css.map",
+    "main.be012669.js.map": "/static/js/main.be012669.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8a124eb.css",
+    "static/js/main.be012669.js"
+  ]
+}
